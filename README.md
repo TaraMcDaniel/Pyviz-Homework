@@ -1,2 +1,2 @@
-# Pyviz
-Within the dashboard, select the neighborhood for additional information.
+# HW6-Pythonic-Monopoly
+You are able to select various neighborhoods within the dashboard to obtain the data you need.
